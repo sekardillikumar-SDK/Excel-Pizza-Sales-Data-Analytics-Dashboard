@@ -1,4 +1,4 @@
-# Excel Sales Analytics Dashboard
+# Excel Pizza Sales Analytics Dashboard
 
 ## Project Overview
 This project analyzes Pizza  sales data using Microsoft Excel to generate business insights through interactive dashboards.
