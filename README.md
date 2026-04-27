@@ -59,7 +59,7 @@ The Excel dashboard provides the following analytics:
 
 # 📷 Dashboard Preview
 
-## Sales_Analytics_Dashboard
+## Pizza Sales_Analytics_Dashboard
 
 ![Dashboard](Image/Pizza_sales_Dashboard.png)
 
