@@ -61,7 +61,7 @@ The Excel dashboard provides the following analytics:
 
 ## Sales_Analytics_Dashboard
 
-![Dashboard](image/Pizza_sales_Dashboard.png)
+![Dashboard](Image/Pizza_sales_Dashboard.png)
 
 ### Business Insights
 
